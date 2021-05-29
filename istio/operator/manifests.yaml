@@ -140,7 +140,6 @@ rules:
   verbs:
   - get
   - create
-  - update
 - apiGroups:
   - policy
   resources:
